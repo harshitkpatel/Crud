@@ -1,0 +1,29 @@
+.form-control {
+    padding-bottom: 10px;
+}
+
+
+#edit1 {
+    width: 70px;
+    border: 0.2px solid black;
+    border-radius: 5px;
+    background-color: rgb(43, 43, 156);
+    color: #fff;
+}
+
+#edit1:hover {
+    background-color: blue;
+}
+
+
+#delet {
+    width: 70px;
+    border: 0.2px solid black;
+    border-radius: 5px;
+    background-color: rgb(43, 43, 156);
+    color: #fff;
+}
+
+#delet:hover {
+    background-color: blue;
+}

@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666
+}
+
+.pimg4 {
+    background-image: url("https://images.unsplash.com/photo-1509358740172-f77c168f6312?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGRhcmslMjBzcGljZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60");
+    min-height: 400vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+.content7 {
+    position: absolute;
+    background-color: rgba(142, 142, 142, 0.5);
+    min-width: 100%;
+    top: 5%;
+    min-height: 75%;
+}
+
+.conteiner7 {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 100%;
+
+}
+
+

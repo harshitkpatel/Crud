@@ -1,0 +1,342 @@
+.pimg1 {
+    background-image: url("https://media.istockphoto.com/id/1398315782/photo/great-beach-panorama-in-maldives-vacation-on-a-dream-island-at-the-ocean.webp?b=1&s=170667a&w=0&k=20&c=aXaCOXxEaNc1fouoxtvOhRaTsmc2FzyvfhQziPbXryM=");
+    background-color:rgba(44, 107, 82);
+    min-height: 120vh;
+    top: 0;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    padding-top: 1%;
+}
+#firstnavbar li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+div#collapsibleNavbar{
+    padding-left: 17%;
+}
+.row {
+    margin-right: -119px;
+    margin-left: -15px;
+}
+.navbar-nav li {
+    padding: 15px;
+}
+a.nav-linka {
+    display: inline-block; background-color: #2AEBAE;
+    color: #fff;
+}
+
+a.nav-linka {
+    background-color: #16664c;
+    color: #000000;
+}
+.first {
+    padding: 100px;
+    line-height: 50px;
+}
+
+.first hr {
+    color: #fff;
+    width: 20%;
+    height: 5px;
+}
+
+button.service {
+    color: #ffffff;
+    border: 2px solid#0F4332;
+}
+button.service:hover {
+    background-color: #0F4332;
+}
+.service{
+    background-color: transparent;
+    padding: 5px 15px;
+    color: #fff;
+}
+.headimg1 {
+    line-height: 60px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+.form1 {
+    background-color: rgb(255, 252, 252);
+    padding: 30px;
+    height: 100%;
+    width: 70%;
+    color: #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+select#amount {
+    width: 100%;
+    height: 30px;
+}
+
+.second hr {
+    color: #000000;
+    width: 40%;
+    height: 10px;
+}
+
+
+.col-sm-4 {
+    padding-top: 7%;
+}
+
+.col-sm-4 > p, h4 {
+    margin-top: 3%;
+    text-align: left;
+    color: #0F4332;
+}
+
+.pimg2 {
+    margin-top: 7%;
+    min-height: 90vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+
+.pimg3 {
+    margin-top: 7%;
+    min-height: 80vh;
+    background-color: rgb(188, 188, 188);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.img6 {
+    position: relative;
+    max-width: 100%;
+    z-index: 0;
+}
+
+.coustom {
+    position: absolute;
+    width: 30%;
+    height: 25%;
+    background-color: #0F4332;
+    color: #fff;
+    text-align: center;
+    left: 70%;
+    top: 52%;
+    z-index: 2;
+}
+.guide{
+    padding: 10px 0;
+}
+.navbar3 {   
+    color: #0F4332;
+    font-size: 25px;
+
+}
+.learn {
+    width: 45%;
+    height: 10%;
+    border: 1px solid #0F4332;
+    color: #0F4332;
+    font-weight: 500;
+}
+
+.learn:hover{
+    width: 45%;
+    height: 10%;
+    border: 1px solid #0F4332;
+    background-color: #0F4332;
+    color: #fff;
+    font-weight: 500;
+}
+
+.nav3 {
+    color: #000000;
+    font-size: 80%;
+}
+
+@media (max-width: 300px) {
+    .learn {
+        max-width: 100%;
+        font-size: 50%;
+    }
+}
+
+.pimg4 {
+    margin-top: 3%;
+    background-color: #fff;
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+
+}
+.hr6 {
+    width: 10%;
+    text-align: center;
+    margin-left: 45%;
+    height: 2px;
+    color: #0F4332;
+    background-color: #0F4332;
+}
+.heading4 {
+    text-align: center;
+    padding: 7%;
+    color: #0F4332;
+}
+
+.content4 {
+    text-align: center;
+}
+
+.pimg5 {
+    padding: 7%;
+    min-height: 70vh;
+    background-color: rgb(188, 188, 188);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.img10 {
+    position: relative;
+    max-width: 100%;
+    padding-top: 10%;
+}
+.guide{
+    padding: 10px 0;
+}
+.navbar4 {   
+    color: #0F4332;
+    font-size: 25px;
+
+}
+.learn {
+    width: 45%;
+    height: 10%;
+    border: 1px solid #0F4332;
+    color: #0F4332;
+    font-weight: 500;
+}
+
+.learn:hover{
+    width: 45%;
+    height: 10%;
+    border: 1px solid #0F4332;
+    background-color: #0F4332;
+    color: #fff;
+    font-weight: 500;
+}
+
+.nav4 {
+    color: #000000;
+    font-size: 80%;
+}
+
+@media (max-width: 300px) {
+    .learn {
+        font-size: 50%;
+        max-height: 50%;
+    }
+}
+
+.pimg6{
+    min-height: 100%;
+    background-color: #0F4332;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.pimg7 {
+    min-height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.pimg7third h3 {
+    color: #0F4332;
+}
+
+.pimg7third h3:hover {
+    color: #16664c;
+}
+
+.pimg8 {
+    min-height: 60vh;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding-top: 10%;
+
+}
+
+.content8 {
+    padding: 0 5px;
+}
+ul.foot {
+    padding: 0;
+}
+.foot li {
+    list-style-type: none;
+    text-align: left;
+}
+
+.foot li:hover {
+    display: inline-block;
+    color: #16664c;
+    border-bottom: 1px solid #16664c;
+    padding: 0;
+}
+
+.foot li a {
+    text-decoration: none;
+    padding: 0;
+}
+.input-field {
+    border: 1px solid #0F4332;
+    width: 90%;
+    height: 40px;
+}
+.input-container {
+    background-color: #0F4332;
+}
+i {
+    background-color: #0F4332;
+}
+
+#what h4 {
+    color: #0F4332;
+}
+
+#what h4:hover {
+    color: #11a574;
+}
+
+#what1 {
+    color: #0F4332;
+}
+
+#what1:hover {
+    color: #11a574;
+}
+
+
+@media screen and (max-width: 400px) {
+    #content11 {
+        padding: 20px;
+    }
+}

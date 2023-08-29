@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.appybox {
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+input[type] {
+    width: 100%;
+}
+
+#jrole {
+    width: 50%;
+}
+
+#address {
+    width: 100%;
+}
+
+#date {
+    width: 25%
+}
+
+
+.button button{
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
+    
+}
